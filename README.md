@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Node Js**
 
-- 💬 Ask me about **java ,html , css, javascript, react js, Node Js,  cpp, c , sql, python, pandas and numpy  **
+- 💬 Ask me about **java ,html , css, javascript, react js, Express js, MongoDB, Node Js,  cpp, c , sql, python, pandas and numpy  **
 
 - 📫 How to reach me **shaguaftafatima444@gmail.com**
 
