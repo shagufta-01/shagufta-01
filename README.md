@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaguftafatima&label=Profile%20views&color=0e75b6&style=flat" alt="shaguftafatima" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br><br>
 - 🌱 I’m currently learning **Machine Learning** and working on **OCR automation using Python**
 
 
@@ -28,7 +28,7 @@
 
 ⚡ Fun fact: Ever noticed how your brain turns into Einstein mode in the shower? Thank dopamine for that creative boost!
 
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -37,7 +37,7 @@
 </p>
 
 
-
+<br><br>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,6 +60,6 @@
 
 
 
-
+<br><br>
 
 <a href="https://www.buymeacoffee.com/shaguftafatima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
