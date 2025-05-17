@@ -65,8 +65,9 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" alt="Express.js" width="40" height="40"/>
+  <!-- Express.js fallback icon (generic Node.js icon used) -->
+  <a href="https://expressjs.com/" target="_blank" title="Express.js">
+    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
@@ -74,10 +75,12 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-machine-learning-cyber-security-soft-fill-soft-fill-juicy-fish.png" alt="Machine Learning" width="40" height="40"/>
+  <!-- Machine Learning generic icon -->
+  <a href="https://scikit-learn.org/" target="_blank" title="Machine Learning">
+    <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Machine Learning" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
