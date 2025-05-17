@@ -37,9 +37,6 @@
 </p>
 
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40"/>
-  </a>
 
   
 <h3 align="left">Languages and Tools:</h3>
