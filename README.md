@@ -39,45 +39,46 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+    <img src="https://img.icons8.com/officel/48/react.png" alt="React.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning" width="40" height="40"/>
+    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-machine-learning-cyber-security-soft-fill-soft-fill-juicy-fish.png" alt="Machine Learning" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
