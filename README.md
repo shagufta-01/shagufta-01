@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shagufta Fatima</h1>
-<h3 align="center">let's code together!😎</h3>
+<h1 align="left">Hi 👋, I'm Shagufta Fatima</h1>
+<h3 align="left">let's code together!😎</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
