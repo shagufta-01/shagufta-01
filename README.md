@@ -15,13 +15,13 @@
 
 💬 Ask me about:
 
-💻 Languages: **Java, C++, C, Python, JavaScript, SQL**
+  💻 Languages: **Java, C++, C, Python, JavaScript, SQL**
 
-🌐 Web Dev: **HTML5, CSS3, React.js, Express.js, Node.js, MongoDB**
+  🌐 Web Dev: **HTML5, CSS3, React.js, Express.js, Node.js, MongoDB**
 
-📊 Data & ML: **Pandas, NumPy, Machine Learning, OCR with Python**
+  📊 Data & ML: **Pandas, NumPy, Machine Learning, OCR with Python**
 
-🛠️ Tools: **Git, GitHub, Postman, VS Code**
+  🛠️ Tools: **Git, GitHub, Postman, VS Code**
 
 
 - 📫 How to reach me **shaguaftafatima444@gmail.com**
