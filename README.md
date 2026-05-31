@@ -1,23 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shagufta Fatima</h1>
-<h3 align="center">let's code together!😎</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaguftafatima&label=Profile%20views&color=0e75b6&style=flat" alt="shaguftafatima" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<hr>
-- 🌱 I’m currently learning **Machine Learning** and working on **OCR automation using Python**
-
-
-👯 I’m looking to collaborate on **Machine Learning** and **OCR-based Python projects**
-
-
-💬 Ask me about:
-
-  💻 Languages: **Java, C++, C, Python, JavaScript, SQL**
-
-  🌐 Web Dev: **HTML5, CSS3, React.js, Express.js, Node.js, MongoDB**
 
   📊 Data & ML: **Pandas, NumPy, Machine Learning, OCR with Python**
 
