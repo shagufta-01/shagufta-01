@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shagufta Fatima</h1>
-<h3 align="center">let's code together!😎</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -26,7 +25,7 @@
 
 - 📫 How to reach me **shaguaftafatima444@gmail.com**
 
-⚡ Fun fact: Ever noticed how your brain turns into Einstein mode in the shower? Thank dopamine for that creative boost!
+⚡ Fun fact: Ever noticed how your brain turns into h1 mode in the shower? Thank dopamine for that creative boost!
 
 <hr>
 <h3 align="left">Connect with me:</h3>
