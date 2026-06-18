@@ -70,15 +70,7 @@
 
 ## 📄 Resume
 
-<a href="YOUR_RESUME_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<!--
-Upload your resume PDF to GitHub or Google Drive and replace YOUR_RESUME_LINK.
-Example:
-https://drive.google.com/file/d/xxxxxxxx/view
--->
+[![Resume](https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1GkAcHqcSWxqG7pn69K5SnAkL2r5sBSTK/view?usp=sharing)
 
 <hr>
 
