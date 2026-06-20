@@ -125,4 +125,3 @@
 ## ⚡ Fun Fact
 
 I enjoy building real-world applications, solving challenging problems, and continuously learning new technologies.
-```
