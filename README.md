@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Shagufta Fatima</h1>
+<h3 align="center">Full Stack MERN Developer | Software Engineer | Tech Enthusiast</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
